@@ -45,7 +45,8 @@ statistics: true
     - [Frank！](https://frankgu.top/)
     - [小角龙！](https://zhang-each.github.io/)
     - [zbgg 日报果然断更了，哈哈](https://daily.dreamerryao.wiki)
-
+    - [66666a的博客](https://jzl-66666a.github.io/)
+    
 <center><img src="index.assets/image.png"/></center>
 
 
